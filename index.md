@@ -4,9 +4,6 @@ title : William Sundin
 
 Nice to meet you! I am a games programmer 
 
-## THIS IS WIP
-
-I am working on this but have some info and in Socials
 
 ## Unity
 
@@ -20,9 +17,20 @@ The [Trailer](https://youtu.be/0V0YkGQosFc) for the game can be found here.
 
 ## Unreal Engine
 
-I have made [No More Monkey Business](https://futuregames.itch.io/no-more-monkey-business) where I worked with unreals chaos system on [unreal 4.27-chaos branch](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Physics/ChaosPhysics/ChaosDestruction/) which want complete and had the buggs it had. 
+I have made [No More Monkey Business](https://futuregames.itch.io/no-more-monkey-business) where I worked with unreals chaos system on [unreal 4.27-chaos branch](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Physics/ChaosPhysics/ChaosDestruction/) which wasnt complete and had some buggs, so there was somethings we adopted to and some we needed to ignore as it was fount to late in the groject (there was functions that hadent ben inplemented yet so it crashed the game).
+What I worked on was I started the to use the chaos system and because of that we used that to make the world destructable as the game is about destroying an office enviroment so chaos system was perfect for the idea. I also worked on making the police projectiles. I worked on the facing direction of the player so it moves in 8 directions as well as the timer that was implemented with a asset so it could be accessed by diffrent systems.
 
+What i worked on in this project was: 
+- Introdused the chaos system from Unreal
+- The police projectiles
+- Timer system
+- Spawner system for the police
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 
 I have made [Ballistic Hamsters](https://futuregames.itch.io/ballistic-hamsters)
 
