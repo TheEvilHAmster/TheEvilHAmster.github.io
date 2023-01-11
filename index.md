@@ -71,7 +71,7 @@ Unreal forces smooth rotations but as we wanted the controls to feel arcade, so 
 
 I have made [Ballistic Hamsters](https://futuregames.itch.io/ballistic-hamsters) 
 
-In Ballistic Hamsters i worked on the powerup system which didn't get that implemented at the end as it made the game to unbalanced which was a bit of a let-down but I'm happy with the system, so I'll take that as a good experience. As the game is a PvP PvE game I learned to use some of the built-in networking system in Unreal which I definitely think is good experience and I will take it with me how thing changes a bit when you need to think with networking in mind. 
+In Ballistic Hamsters I worked on the powerup system which didn't get that implemented at the end as it made the game to unbalanced which was a bit of a let-down but I'm happy with the system, so I'll take that as a good experience. As the game is a PvP PvE game I learned to use some of the built-in networking system in Unreal which I definitely think is good experience and I will take it with me how thing changes a bit when you need to think with networking in mind. 
   
 
 ## Socials 
