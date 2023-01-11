@@ -2,6 +2,12 @@
 title              : "William Sundin"
 name               : "William Sundin"
 description        : "Games Programmer"
-remote_theme       : pages-themes/hacker@v0.2.0
-plugins            : jekyll-remote-theme
+
+social-network-links:
+  email: "willesundin99@gmail.com"
+  github: TheEvilHAmster
+  linkedin: william-sundin-2995b7176
+  
+remote_theme: pages-themes/hacker@v0.2.0
+plugins: jekyll-remote-theme
 ---
