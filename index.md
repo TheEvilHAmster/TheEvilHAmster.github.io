@@ -27,7 +27,7 @@ I have made [No More Monkey Business](https://futuregames.itch.io/no-more-monkey
 
   
 What I worked on in this project was:  
-<br>
+
 <details> 
 
 <summary>Introduced the chaos system from Unreal</summary> 
