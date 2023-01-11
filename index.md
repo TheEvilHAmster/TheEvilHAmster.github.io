@@ -9,7 +9,7 @@ Nice to meet you! I am a games programmer
 
 
 ## Unity 
-
+### Vaccunaut
 I have made [Vaccunaut](https://futuregames.itch.io/vacuunaut) where I worked on the environment such as the doors, pipes and garbage. I also helped the other disciplines to understand what us programmers where doing and helped with the version control system (perforce).  
 
 I helped understand how the event system works and set it up in the way they wanted it to be.  
@@ -23,6 +23,7 @@ The [Trailer](https://youtu.be/0V0YkGQosFc) for the game can be found here.
 
 ## Unreal Engine 
 
+### No More Monkey Business
 I have made [No More Monkey Business](https://futuregames.itch.io/no-more-monkey-business) where I worked with Unreals chaos system on [unreal 4.27-chaos branch](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Physics/ChaosPhysics/ChaosDestruction/) which wasn't complete and had some bugs, so there were somethings we adopted to and some we needed to ignore as it was fount to late in the project (there was functions that hadn't been implemented yet, so it crashed the game). 
 
   
@@ -68,7 +69,7 @@ Unreal forces smooth rotations but as we wanted the controls to feel arcade, so 
 </details> 
 <br>
   
-
+### Ballistic Hamsters
 I have made [Ballistic Hamsters](https://futuregames.itch.io/ballistic-hamsters) 
 
 In Ballistic Hamsters I worked on the powerup system which didn't get that implemented at the end as it made the game to unbalanced which was a bit of a let-down but I'm happy with the system, so I'll take that as a good experience. As the game is a PvP PvE game I learned to use some of the built-in networking system in Unreal which I definitely think is good experience and I will take it with me how thing changes a bit when you need to think with networking in mind. 
