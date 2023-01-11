@@ -27,7 +27,7 @@ I have made [No More Monkey Business](https://futuregames.itch.io/no-more-monkey
 
   
 What I worked on in this project was:  
-
+<br>
 <details> 
 
 <summary>Introduced the chaos system from Unreal</summary> 
@@ -35,7 +35,7 @@ What I worked on in this project was:
 I started the to use the chaos system and because of that we used that to make the world destructible as the game is about destroying an office environment, so chaos system was perfect for the idea. 
 
 </details> 
-
+<br>
 <details> 
 
 <summary>Timer system</summary> 
@@ -43,7 +43,7 @@ I started the to use the chaos system and because of that we used that to make t
 The timer that was implemented as an asset so it could be accessed by different systems such as the elevator, police spawner and displayed time. 
 
 </details> 
-
+<br>
 <details> 
 
 <summary> The police projectiles</summary> 
@@ -51,14 +51,14 @@ The timer that was implemented as an asset so it could be accessed by different 
 I implemented the police projectiles to make them hit the player and so that they interacted on the way we wanted it to work. 
 
 </details> 
-
+<br>
 <details> 
 
 <summary>Spawner system</summary> 
 A spawner that you can set after how long you want something to spawn and how many to spawn and if there should be a delay between spawns. 
   
 </details> 
-
+<br>
 <details> 
 
 <summary>Facing 8 directions</summary> 
@@ -66,7 +66,7 @@ A spawner that you can set after how long you want something to spawn and how ma
 Unreal forces smooth rotations but as we wanted the controls to feel arcade, so we made the player snap instead. 
 
 </details> 
-
+<br>
   
 
 I have made [Ballistic Hamsters](https://futuregames.itch.io/ballistic-hamsters) 
