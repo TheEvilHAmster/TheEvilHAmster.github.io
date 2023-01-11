@@ -80,8 +80,8 @@ In Ballistic Hamsters I worked on the powerup system which didn't get that imple
 
   
 
-[LinkedIn](https://www.linkedin.com/in/william-sundin-2995b7176)  
+[LinkedIn](https://www.linkedin.com/in/william-sundin-2995b7176)  [GitHub](https://github.com/TheEvilHAmster)
 
-[GitHub](https://github.com/TheEvilHAmster) 
+ 
 
  
