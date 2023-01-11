@@ -1,11 +1,9 @@
 ---
-theme: hacker
+theme              : hacker@v0.2.0
 title              : "William Sundin"
 name               : "William Sundin"
 description        : "Games Programmer"
-
-  
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme       : pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 ---
