@@ -1,9 +1,6 @@
 ---
-theme              : hacker
+theme              : jekyll-theme-hacker
 title              : "William Sundin"
 name               : "William Sundin"
 description        : "Games Programmer"
-remote_theme       : 'jekyll-theme-hacker'
-plugins:
-- jekyll-remote-theme
 ---
