@@ -16,7 +16,7 @@ I helped understand how the event system works and set it up in the way they wan
 
 What I learned from this Group project that I can take with me is that there is a huge difference working with a designated PM and not working with one, as it made communication a lot easier and made the team more brought together as it was the first time I worked with a full (learning) team with the rolls Project manager, Product owner, designers, QA, artists and programmers. What I also learned from this was that most problems can be solved by asking the team as we are working on this together we can solve most problems together as when there are weird bugs we have all experienced different bugs but worked through them and improved.  
 
-The [Trailer](https://youtu.be/0V0YkGQosFc) for the game can be found here. 
+The Trailer for the game can be found [here](https://youtu.be/0V0YkGQosFc)
 
 
 
